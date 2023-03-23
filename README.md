@@ -23,12 +23,12 @@ Split:
 • Validation: rows 8041-10050. 
 • Test: rows 10051-12563.  
 
-**Section A **
+**Section A**
 
 1. Decision Tree: Implement a Decision Tree (classifier and regressor) algorithm in Python. 
 2. AdaBoost: Implement an AdaBoost (classifier) algorithm in Python. Machine Learning 2022  
 
-**Section B **
+**Section B**
 
 1. Classification: Use both models from section A and predict the area type (B, P), using all the features in the dataset. 
 2. 2. Regression: Use the decision tree model from section A and predict the price of a property, using all the features in the dataset.  
