@@ -53,11 +53,17 @@ Split:
 
 1. Gradient Boost Regressor:  
   • Implement a Gradient Boost Regressor algorithm in Python. 
+  
   • Run the gradient boost algorithm on the given data to predict the price of a property. 
+  
   • Compare the algorithm’s performance to the built-in Sklearn model and the previous models that you implemented. 
+  
 2. Classification Metrics:  
   • Report the sensitivity and specificity metrics of section B(1). 
+  
   • Is there a significant difference between the scores? Suggest an explanation to why that may be the case. 
+  
   • Suggest and apply a method to improve the scores. 
+  
 3. Performance:  
   • Additional bonus points (up to 5) will be given for  outperforming other students (in terms of metrics). Make sure to provide an explanation. 
