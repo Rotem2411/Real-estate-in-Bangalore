@@ -3,9 +3,11 @@
 
 
 **Data** 
+
 The data consists of features of real estate in different areas of Bangalore. It was pre-processed for convenience. The original data can be found here. 
 
 Variables:
+
 • availability: is the property available immediately (1) or in the near future (0). 
 • total_sqft: the area of the property in square feet (1 foot = 30.54 cm). 
 • bedrooms: the number of bedrooms in the property. 
@@ -16,23 +18,28 @@ Variables:
 • price in rupees: the price of the property.  
 
 Split:
+
 • Train: rows 1-8040.  
 • Validation: rows 8041-10050. 
 • Test: rows 10051-12563.  
 
 **Section A **
+
 1. Decision Tree: Implement a Decision Tree (classifier and regressor) algorithm in Python. 
 2. AdaBoost: Implement an AdaBoost (classifier) algorithm in Python. Machine Learning 2022  
 
 **Section B **
+
 1. Classification: Use both models from section A and predict the area type (B, P), using all the features in the dataset. 
 2. 2. Regression: Use the decision tree model from section A and predict the price of a property, using all the features in the dataset.  
 
 **Section C**
+
 1. Sklearn Models: Implement the models (including hyperparameter tuning) from section B using built-in function from Sklearn. 
 2. 2. Comparison: Compare the result of your program and the built-in Sklearn models in terms of metrics and runtime. If there are differences, suggest an explanation.  
 
 **Section D**
+
 1. Gradient Boost Regressor:  
   • Implement a Gradient Boost Regressor algorithm in Python. 
   • Run the gradient boost algorithm on the given data to predict the price of a property. 
