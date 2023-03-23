@@ -63,7 +63,7 @@ Split:
   
   • Is there a significant difference between the scores? Suggest an explanation to why that may be the case. 
   
-  • Suggest and apply a method to improve the scores. 
+  • Suggest and apply a method to improve the scores.
   
 3. Performance:  
   • Additional bonus points (up to 5) will be given for  outperforming other students (in terms of metrics). Make sure to provide an explanation. 
